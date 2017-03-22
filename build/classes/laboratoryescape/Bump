@@ -1,0 +1,45 @@
+security guards
+
+0   exists
+1   stage
+2   health
+3   x
+4   y
+5   0-left;1-right
+6   min limit
+7   max limit
+8   bullet
+9   b way mov.
+10  bx
+11  by
+
+health Packs
+
+0    exits
+1    stage
+2    x
+3    y
+
+weapons and ammo
+
+0   exists
+1   stage
+2   x
+3   y
+4   class
+5   amount
+
+player equipment
+
+0   gun
+1   shotgun
+2   RPG
+
+player shot
+
+0   exists
+1   stage
+2   0-l;1-r
+3   x
+4   y
+5   type
